@@ -32,7 +32,7 @@
 * **負責項目：** 程式開發, 企劃發想, AI 應用
 
 ---
-## 📫 如何聯繫我 (Contact Me)
+## 📫 聯絡與作品集
 
 * **Email:** royforworktw@gmail.com
 * **LinkedIn:** [My LinkedIn](http://www.linkedin.com/in/roybbq)
