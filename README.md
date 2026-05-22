@@ -1,4 +1,4 @@
-## Hi there 👋 我是 RoyBBQ 
+## 👋 Hi 我是 RoyBBQ 
 一個熱衷於遊戲開發的資深玩家，喜愛遊戲和動漫勝過其他事物。
 目前正在專研 Unity、C# ，並進行 欲泣之塔：魔女的賭局(Tower-of-Wept-Desires---The-Witchs-Gambit) 的製作。
 
