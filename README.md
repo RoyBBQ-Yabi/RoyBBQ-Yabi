@@ -21,12 +21,12 @@
 
 ## 🚀 精選專案
 
-### 1. [Escape-the-room-3D](https://github.com/RoyBBQ-Yabi/escape-the-room-3D)
+### 🎁 [Escape-the-room-3D](https://github.com/RoyBBQ-Yabi/escape-the-room-3D)
 * **專案描述：** 一款第三人稱視角的蒐集類 3D 遊戲 (我的第一個 Unity 3D 專案)
 * **核心技術：** Unity 3D, C#, VS Code, ChayGPT, Gemini
 * **負責項目：** 程式開發, AI 應用, 遊戲玩法發想
 
-### 2. [欲泣之塔：魔女的賭局](https://github.com/RoyBBQ-Yabi/Tower-of-Wept-Desires---The-Witchs-Gambit)
+### ♟ [欲泣之塔：魔女的賭局](https://github.com/RoyBBQ-Yabi/Tower-of-Wept-Desires---The-Witchs-Gambit)
 * **專案描述：** 西洋棋和卡牌結合的 Rogue 2D 遊戲，卡牌效果依照西洋棋規則來進行：攻擊、移動等動作。
 * **核心技術：** Unity, C#, VS Code, Claude, Gemini, OpenCode, Codex
 * **負責項目：** 程式開發, 企劃發想, AI 應用
