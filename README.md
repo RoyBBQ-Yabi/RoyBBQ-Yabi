@@ -14,7 +14,7 @@
 
 ---
 - 🌱 正在學習：Game dev, Unity, C#, AI Agent
-- 🔭 正在從事：欲泣之塔：魔女的賭局(開發), Unity Learn 證照課程, Google AI 證照課程, 
+- 🔭 正在從事：欲泣之塔：魔女的賭局（ 開發中 ）, Unity Learn 證照課程, Google AI 證照課程, 
 ---
 
 ## 🚀 精選專案
