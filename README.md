@@ -1,7 +1,8 @@
 ## 👋 Hi 我是 RoyBBQ 
 一個熱衷於遊戲開發的資深玩家，喜愛遊戲和動漫勝過其他事物。
 目前正在專研 Unity、C# ，並進行 欲泣之塔：魔女的賭局(Tower-of-Wept-Desires---The-Witchs-Gambit) 的製作。
-
+- 🌱 正在學習：Game dev, Unity, C#, AI Agent
+- 🔭 正在從事：欲泣之塔：魔女的賭局（ 開發中 ）, Unity Learn 證照課程, Google AI 證照課程
 ---
 
 ## 🛠 技能專長
@@ -12,9 +13,6 @@
 | **資料庫** | MySQL |
 | **開發工具** | GitHub Desktop, GitHub, VS Code |
 
----
-- 🌱 正在學習：Game dev, Unity, C#, AI Agent
-- 🔭 正在從事：欲泣之塔：魔女的賭局（ 開發中 ）, Unity Learn 證照課程, Google AI 證照課程, 
 ---
 
 ## 🚀 精選專案
