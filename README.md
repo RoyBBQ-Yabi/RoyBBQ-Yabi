@@ -13,6 +13,9 @@
 | **開發工具** | GitHub Desktop, GitHub, VS Code |
 
 ---
+- 🌱 正在學習：Game dev, Unity, C#, AI Agent
+- 🔭 正在從事：欲泣之塔：魔女的賭局(開發), Unity Learn 證照課程, Google AI 證照課程, 
+---
 
 ## 🚀 精選專案
 
@@ -27,18 +30,11 @@
 * **負責項目：** 程式開發, AI 應用, 企劃發想
 
 ---
-
-## 📈 GitHub 統計數據 (自由選用)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyBBQ-Yabi&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyBBQ-Yabi&layout=compact&theme=radial)
-
----
 ## 📫 如何聯繫我 (Contact Me)
 
 * **Email:** royforwork@gmail.com
-* **LinkedIn:** [你的 LinkedIn 連結](http://www.linkedin.com/in/roybbq)
-* **遊戲作品集:** [你的網站連結](https://roybbq.wixsite.com/my-portfolio)
+* **LinkedIn:** [My LinkedIn](http://www.linkedin.com/in/roybbq)
+* **遊戲作品集:** [My GamePortfolio Link](https://roybbq.wixsite.com/my-portfolio)
 <!--
 **RoyBBQ-Yabi/RoyBBQ-Yabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
