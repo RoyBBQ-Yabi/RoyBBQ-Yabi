@@ -1,3 +1,7 @@
+<p align="center">
+<img width="1239" height="422" alt="Image" src="https://github.com/user-attachments/assets/e1de1037-1150-420a-bb43-2b73f6aab1be" />
+</p>
+
 ## 👋 Hi 我是 RoyBBQ 
 一個熱衷於遊戲開發的資深玩家，喜愛遊戲和動漫勝過其他事物。
 <br>目前正在專研 Unity、C# ，並進行 欲泣之塔：魔女的賭局(Tower-of-Wept-Desires---The-Witchs-Gambit) 的製作。
