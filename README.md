@@ -26,7 +26,7 @@
 * **核心技術：** Unity 3D, C#, VS Code, ChayGPT, Gemini
 * **負責項目：** 程式開發, 企劃發想, AI 應用
 
-### ♟ [欲泣之塔：魔女的賭局](https://github.com/RoyBBQ-Yabi/Tower-of-Wept-Desires---The-Witchs-Gambit)
+### ♟ [欲泣之塔：魔女的賭局](https://github.com/RoyBBQ-Yabi/Tower-of-Wept-Desires---The-Witchs-Gambit) ( 開發中 )
 * **專案描述：** 西洋棋和卡牌結合的 Rogue 2D 遊戲，卡牌效果依照西洋棋規則來進行：攻擊、移動等動作。
 * **核心技術：** Unity, C#, VS Code, Claude, Gemini, OpenCode, Codex
 * **負責項目：** 程式開發, 企劃發想, AI 應用
